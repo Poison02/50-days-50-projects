@@ -7,3 +7,5 @@
 5. [Blurry Loading](./05-blurry-loading)
 6. [Scroll Animation](./06-scroll-animation)
 7. [Split Landing Page](./07-split-landing-page)
+8. [Form Wave Animation](./08-form-input-wave)
+9. [Sound Board](./09-sound-board)

@@ -10,3 +10,4 @@
 8. [Form Wave Animation](./08-form-input-wave)
 9. [Sound Board](./09-sound-board)
 10. [Dad Jokes](./10-dad-jokes)
+11. [Event KeyCodes](./11-event-keycodes)

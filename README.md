@@ -11,3 +11,4 @@
 9. [Sound Board](./09-sound-board)
 10. [Dad Jokes](./10-dad-jokes)
 11. [Event KeyCodes](./11-event-keycodes)
+12. [FAQ Collapse](./12-faq-collapse)

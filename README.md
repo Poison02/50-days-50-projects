@@ -12,3 +12,4 @@
 10. [Dad Jokes](./10-dad-jokes)
 11. [Event KeyCodes](./11-event-keycodes)
 12. [FAQ Collapse](./12-faq-collapse)
+13. [Random Choice Picker](./13-random-choice-picker)

@@ -1,5 +1,8 @@
 # 50项目50天
 前端练手小项目...
+<br />
+HTML + CSS + JS
+<br />
 1. [Expanding Cards](./01-expanding-cards)
 2. [Progress Steps](./02-progress-steps)
 3. [Rotating Navigation](./03-rotating-navigation)

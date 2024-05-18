@@ -1,8 +1,5 @@
 # 50项目50天
 前端练手小项目...
-<br />
-HTML + CSS + JS
-<br />
 1. [Expanding Cards](./01-expanding-cards)
 2. [Progress Steps](./02-progress-steps)
 3. [Rotating Navigation](./03-rotating-navigation)
@@ -19,3 +16,4 @@ HTML + CSS + JS
 14. [Animated Navigation](./14-animated-navigation)
 15. [Incrementing Counter](./15-incrementing-counter)
 16. [Drink Water](./16-drink-water)
+17. [Movie App](./17-movie-app)

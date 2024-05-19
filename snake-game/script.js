@@ -7,6 +7,11 @@ const snakeLogo = document.getElementById(`snake-logo`);
 const score = document.getElementById(`score`);
 const highScoreText = document.getElementById(`highScore`);
 
+document.getElementById('up-btn').addEventListener('click', () => {direction = 'up';});
+document.getElementById('down-btn').addEventListener('click', () => {direction = 'down';});
+document.getElementById('left-btn').addEventListener('click', () => {direction = 'left';});
+document.getElementById('right-btn').addEventListener('click', () => {direction = 'right';});
+
 // Define game variables
 const gridSize = 20;
 let snake = [{ x: 10, y: 10 }];

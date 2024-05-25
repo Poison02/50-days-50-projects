@@ -23,3 +23,4 @@
 21. [Drag and Drop](./21-drag-and-drop)
 22. [Drawing App](./22-drawing-app)
 23. [Kinetic Loader](./23-kinetic-loader)
+24. [Content Placeholder](./24-content-placeholder)

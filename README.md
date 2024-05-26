@@ -24,3 +24,4 @@
 22. [Drawing App](./22-drawing-app)
 23. [Kinetic Loader](./23-kinetic-loader)
 24. [Content Placeholder](./24-content-placeholder)
+25. [Sticky Navbar](./25-sticky-navbar)

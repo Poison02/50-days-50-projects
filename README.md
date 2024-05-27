@@ -25,3 +25,4 @@
 23. [Kinetic Loader](./23-kinetic-loader)
 24. [Content Placeholder](./24-content-placeholder)
 25. [Sticky Navbar](./25-sticky-navbar)
+26. [Progress Bar](./26-progress-bar)

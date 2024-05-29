@@ -27,3 +27,4 @@
 25. [Sticky Navbar](./25-sticky-navbar)
 26. [Progress Bar](./26-progress-bar)
 27. [Scroll Animation](./27-scroll-animation)
+28. [Split Landing Page](./28-split-landing-page)

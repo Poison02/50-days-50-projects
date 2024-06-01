@@ -29,4 +29,5 @@
 27. [Scroll Animation](./27-scroll-animation)
 28. [Split Landing Page](./28-split-landing-page)
 29. [Form Wave Animation](./29-form-wave-animation)
-30. [Sound Board](./30-auto-text-effect)
+30. [Auto Text Effect](./30-auto-text-effect)
+31. [Password Generator](./31-password-generator)

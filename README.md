@@ -31,3 +31,4 @@
 29. [Form Wave Animation](./29-form-wave-animation)
 30. [Auto Text Effect](./30-auto-text-effect)
 31. [Password Generator](./31-password-generator)
+32. [Good Cheap Fast](./32-good-cheap-fast)

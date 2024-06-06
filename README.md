@@ -33,3 +33,4 @@
 31. [Password Generator](./31-password-generator)
 32. [Good Cheap Fast](./32-good-cheap-fast)
 33. [Note App](./33-note-app)
+34. [Animated Countdown](./34-animated-countdown/)

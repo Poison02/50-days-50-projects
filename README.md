@@ -34,3 +34,4 @@
 32. [Good Cheap Fast](./32-good-cheap-fast)
 33. [Note App](./33-note-app)
 34. [Animated Countdown](./34-animated-countdown/)
+35. [Image Carousel](./35-image-carousel/)

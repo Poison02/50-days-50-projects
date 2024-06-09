@@ -36,3 +36,4 @@
 34. [Animated Countdown](./34-animated-countdown/)
 35. [Image Carousel](./35-image-carousel/)
 36. [Hoverboard](./36-hoverboard/)
+37. [Pokedex](./37-pokedex/)

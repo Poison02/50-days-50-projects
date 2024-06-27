@@ -44,3 +44,4 @@
 42. [Live User Filter](./42-live-user-filter/)
 43. [Feedback UI Design](./43-feedback-ui-design/)
 44. [Custom Range Slider](./44-custom-range-slider/)
+45. [Netflix Mobile Navigation](./45-netflix-mobile-navigation/)

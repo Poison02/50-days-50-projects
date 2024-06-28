@@ -45,3 +45,4 @@
 43. [Feedback UI Design](./43-feedback-ui-design/)
 44. [Custom Range Slider](./44-custom-range-slider/)
 45. [Netflix Mobile Navigation](./45-netflix-mobile-navigation/)
+46. [Quiz App](./46-quiz-app/)

@@ -1,5 +1,7 @@
-# 50项目50天
+# 50 项目 50 天
+
 前端练手小项目...
+
 1. [Expanding Cards](./01-expanding-cards)
 2. [Progress Steps](./02-progress-steps)
 3. [Rotating Navigation](./03-rotating-navigation)
@@ -46,3 +48,4 @@
 44. [Custom Range Slider](./44-custom-range-slider/)
 45. [Netflix Mobile Navigation](./45-netflix-mobile-navigation/)
 46. [Quiz App](./46-quiz-app/)
+47. [Testimonial Box Switcher](./47-testimonial-box-switcher/)

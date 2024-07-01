@@ -49,3 +49,4 @@
 45. [Netflix Mobile Navigation](./45-netflix-mobile-navigation/)
 46. [Quiz App](./46-quiz-app/)
 47. [Testimonial Box Switcher](./47-testimonial-box-switcher/)
+48. [Random Image Feed](./48-random-image-feed/)

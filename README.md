@@ -51,3 +51,4 @@
 47. [Testimonial Box Switcher](./47-testimonial-box-switcher/)
 48. [Random Image Feed](./48-random-image-feed/)
 49. [Todo List](./49-todo-list/)
+50. [Insect Catch Game](./50-insect-catch-game/)
